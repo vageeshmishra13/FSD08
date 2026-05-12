@@ -1,0 +1,14 @@
+body{
+    display: flex;
+}
+
+#textarea{
+    border: 3px solid black;
+    height: 50%;
+    width: 50%;
+}
+
+#buttonSection{
+   
+     border: 3px solid black;
+}

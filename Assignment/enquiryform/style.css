@@ -1,0 +1,38 @@
+.container
+{
+    display: flex;
+    justify-content: space-around;
+
+    img{
+        height: 45px;
+        width: 150px;
+    }
+
+    
+}
+.navlinks
+    {
+        display: flex;
+        justify-content: space-between;
+
+        .links{
+            display: flex;
+            justify-content: space-around;
+        }
+    }
+
+
+    .form
+    {
+        width: 75vw;
+        background: lightblue;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .heading
+    {
+        display: block;
+        text-align: center;
+    }

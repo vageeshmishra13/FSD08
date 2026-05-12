@@ -1,0 +1,27 @@
+#div1{
+
+    border: 1px solid black;
+    width: 450px;
+    height: 300px;
+
+}
+
+
+#div2{
+
+    width: 50px;
+    height: 20px;
+    display: block;
+    margin: 20px;
+    /* padding: flex: 1 1 auto;; */
+
+
+}
+button{
+    width: 250px;
+    height: 70px;
+    color: blue;
+    margin-bottom: auto;
+    display: flex;
+
+}
