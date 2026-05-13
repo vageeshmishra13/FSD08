@@ -1,0 +1,10 @@
+div{
+    background-color: rgb(18, 18, 18);
+    width: 200px;
+    height: 200px;
+    color: white;
+    border: 1px solid #ddd8d8;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
