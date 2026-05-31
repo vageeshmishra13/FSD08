@@ -1,0 +1,17 @@
+#div1 {
+  width: 300px;
+  height: 30px;
+  background-color: brown;
+  font-size: x-large;
+  color: bisque;
+}
+#header {
+  width: 260px;
+  height: 30px;
+  background-color: rgb(207, 189, 189);
+}
+#footer {
+  width: 260px;
+  height: 30px;
+  background-color: chocolate;
+}
